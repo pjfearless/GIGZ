@@ -1,1 +1,1 @@
-# GIGZ
+# GIGZ - The band linkup app
